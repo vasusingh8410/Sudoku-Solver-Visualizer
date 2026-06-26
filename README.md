@@ -25,11 +25,9 @@ An interactive Sudoku Solver developed using Python and Tkinter that solves any 
 ```
 Sudoku-Solver-Visualizer/
 │
+├── README.md
 ├── main.py
 ├── solver.py
-├── README.md
-├── requirements.txt
-└── .gitignore
 ```
 
 ## How to Run
